@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">PuppyLand</string>
     <string name="caption_imagen">PuppyLand</string>
+    <string name="contador">99</string>
 </resources>
